@@ -28,7 +28,7 @@ Usability Testing & Evaluation
 🔹 Introduce a voice search feature to improve accessibility.
 🔹 Improve checkout and payment UX for a seamless shopping experience.
 
-🔗 Project Presentation: [Attach Link Here]
+🔗 Project Presentation: [https://github.com/Ishraq-Fraih/ZARA-App-Redesign]
 
 📌 Why This Project?
 This project demonstrates expertise in HCI, UI/UX Design, user research, and interactive prototyping, showcasing practical skills in improving digital product usability.
